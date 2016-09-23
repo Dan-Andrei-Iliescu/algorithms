@@ -1,2 +1,2 @@
 # algorithms
-Various algorithmic techniques
+Various algorithmic techniques in C
